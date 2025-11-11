@@ -1,5 +1,6 @@
 🏦 Bank Loan Report 
 A data analytics project using SQL and Power BI to evaluate bank loan performance, validate insights, and track key financial metrics.
+
 Bank-Loan-Report/
 │
 ├── 📄 Capstone.pdf
@@ -33,7 +34,7 @@ Overview Page: Total applications, funded amounts, interest rate, DTI ratio
 Summary Page: Good vs Bad loan breakdown, funding & repayment metrics
 Details Page: Loan-level data with borrower insights (purpose, grade, home ownership, etc.)
 
-🧰 Tools & Technologies
+🧰 Tools & Technologies: 
 Power BI Desktop
 SQL
 DAX
